@@ -1,0 +1,61 @@
+.color {
+
+ 	color: #FD6969;
+
+}
+
+
+
+h1 {
+
+	letter-spacing: 2px;
+
+	font-family: inherit; 
+
+}
+
+
+
+.padding {
+
+	padding-left: 60px;
+
+	padding-right: 60px;
+
+	padding-top: 30px;
+
+}
+
+
+
+.display{
+
+	padding: 60px;
+
+}
+
+
+
+.ui {
+
+	color: black;
+
+}
+
+
+
+#background {
+
+	background-color: #FD6969;
+
+	color: white;
+
+}
+
+
+
+#rechercher {
+
+	display: flex;
+
+}
